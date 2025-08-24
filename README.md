@@ -80,6 +80,17 @@ We don't need funding or someone to take over - just passionate people who belie
 
 The scrapers work. The data is flowing. The bills are paid. Now let's build something unstoppable.
 
+
+## The Promise
+
+- The schema would be open source
+- The data would be open source
+- The data collection would be open source
+
+ .. and I really don't even know the official way is to save this but my intention is to just open everything up so we can all make apps do things, explore data analytics and just help push this sport a little bit further away from gatekeeper corruption which is in every corner of it currently.
+
+ Because i just love boxing.
+
 ---
 
 ## Legal Note
