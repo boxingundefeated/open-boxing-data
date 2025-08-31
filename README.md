@@ -2,9 +2,8 @@
 
 Boxing is one of the only major sports with zero public data APIs. 
 
-While every other sport has evolved, boxing data remains locked behind:
+While every other sport has evolved, boxing data remains locked behind a few major website's that have no intention of sharing access to the data, and even implement aggressive anti-sharing type measures such as:
 
-**BoxRec's fortress:**
 - Aggressive Cloudflare protections
 - Data pollution
 - Different data for logged in/out users
@@ -12,22 +11,12 @@ While every other sport has evolved, boxing data remains locked behind:
 - Monthly fees charged to fighters and gyms just to update their OWN records
 - A business model built on hoarding what should be public information
 
-They're the only comprehensive source, and they know it. They've turned boxing history into a private asset.
-
-They charge gyms & camps to have profiles, and make them update the data. Then they still serve ads.
-
 It's time that boxing data was opened to everybody for the benefit of the sport and the fighters and the fans.
 
 ## What I've Built (So Far)
 
- I have a very solid foundation of data models and scraping and data collection already started and am looking for help from enthusiastic data professionals who are connoisseurs of the sport (or just opening data access in general) to help me build this into a robust, enterprise-grade schema/database/etc. -- The first of it's kind in Boxing.
+I have a very solid foundation of data models and data collection already started and am looking for help from enthusiastic data professionals who are connoisseurs of the sport (or just opening data access in general) to help me build this into a robust, enterprise-grade schema/database/etc. -- The first of it's kind in Boxing.
  
-- ✅ Bypassed Cloudflare protections
-- ✅ Handled data pollution and login-state variations
-- ✅ Built initial scraping pipelines that actually work
-- ✅ Scalable collection infrastructure
-- 🚧 Developing robust data schema
-
 ## Why Help?
 
 This isn't about needing help - it's about building something together for the sport we love.
@@ -46,8 +35,8 @@ Every other major sport has open data:
 
 Imagine:
 
-- Free APIs for every boxing app developer
-- Open datasets for journalists and analysts
+- APIs boxing app developers
+- Available datasets for journalists and analysts
 - Transparent scoring data to analyze judging
 - Historical records accessible to everyone
 - No more monthly fees for fighters to update their own records
@@ -57,9 +46,6 @@ This is what every other sport already has. Boxing deserves the same.
 Here's a simplified version:
 
 ## How You Can Help
-
-
-This project is at a critical inflection point. We've built working scrapers that can bypass BoxRec's defenses, but now we need to scale properly. 
 
 We're looking for experienced data engineers who know how to take a working prototype and turn it into something that can reliably handle millions of records. 
 
@@ -95,4 +81,4 @@ The scrapers work. The data is flowing. The bills are paid. Now let's build some
 
 ## Legal Note
 
-We're scraping publicly accessible information. We're not hacking, we're not stealing credentials, we're collecting what's already visible on the web. If BoxRec doesn't like it, they can join the 21st century and build an API.
+We're scraping publicly accessible information. We're not hacking and we're not stealing credentials. We're are simply collecting and aggregating what's already visible on the web.
